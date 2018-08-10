@@ -1,4 +1,4 @@
 cd pyramiddockercirclecookie/
-pip install -e .  test
+pip install --user -e .
 
 
